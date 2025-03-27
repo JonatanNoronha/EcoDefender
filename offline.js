@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1743102765,
+	"version": 1743103516,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -54,11 +54,11 @@
 		"images/botaoataque-sheet0.png",
 		"images/sprite-sheet0.png",
 		"images/quadro.png",
-		"images/setasteclado-sheet0.png",
 		"images/botaoespaco-sheet0.png",
 		"images/botaoe-sheet0.png",
 		"images/botaovoltar-sheet0.png",
 		"images/botaoacao-sheet0.png",
+		"images/setasteclado-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
