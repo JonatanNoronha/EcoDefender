@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1743103516,
+	"version": 1743438882,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -59,6 +59,7 @@
 		"images/botaovoltar-sheet0.png",
 		"images/botaoacao-sheet0.png",
 		"images/setasteclado-sheet0.png",
+		"images/telagameover-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
